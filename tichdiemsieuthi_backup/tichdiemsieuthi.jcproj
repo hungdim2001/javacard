@@ -1,0 +1,17 @@
+<JavaCardProject name="tichdiemsieuthi">
+<USER>
+<PKG name="auth" aid="11 22 33 44 55 88" major="1" minor="0">
+<CLASS name="AUTH_CONSTANTS"/>
+<APPLET aid="11 22 33 44 55 88 00" instanceaid="" parameter="" authority="" privileges="" index="22528" name="pin"/>
+<CLASS name="APPLET_CONSTANTS"/>
+<CLASS name="PinInterface"/>
+<APPLET aid="11 22 33 44 55 88 01" instanceaid="" parameter="" authority="" privileges="" index="-14800" name="infomation"/>
+<CLASS name="INFO_CONSTANTS"/>
+<CLASS name="InfoInterface"/>
+<APPLET aid="11 22 33 44 55 88 02" instanceaid="" parameter="" authority="" privileges="" index="-5856" name="supermarket"/>
+<CLASS name="SUPERMARKET_CONSTANTS"/>
+<CLASS name="MarketInterface"/>
+</PKG>
+<Libs/>
+</USER>
+</JavaCardProject>
